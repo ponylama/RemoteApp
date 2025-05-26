@@ -43,12 +43,12 @@ Use it for automation, device diagnostics, or remote image capture on the same l
 ## 🧑‍💻 How to Run
 
 ### 1. Android App Setup
-- Clone or import the project into **Android Studio**
+- Import the project 'androidRemoteApp' into **Android Studio**
 - The app automatically starts the HTTP server on **port 8080**
 - Make sure to accept the **Camera permission** when prompted
 
 ### 1. python App Setup
-- open the project
+- open the project 'pythonRemoteApp'
 - pip install -r requirements.txt
 - edit ip on python script
 - run

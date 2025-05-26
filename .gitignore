@@ -1,15 +1,20 @@
+# ===== ANDROID =====
+androidRemoteApp/.gradle/
+androidRemoteApp/build/
+androidRemoteApp/local.properties
+
+# Android Studio project files
+androidRemoteApp/.idea/
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+
+# ===== PYTHON =====
+pythonRemoteApp/__pycache__/
+pythonRemoteApp/*.py[cod]
+pythonRemoteApp/.venv/
+pythonRemoteApp/venv/
+pythonRemoteApp/.idea/
+
+# ===== OS FILES =====
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
+Thumbs.db
+
