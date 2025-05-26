@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">remotedApp</string>
+    <string name="btn_text_open_camera_only">open camera</string>
+    <string name="btn_text_captue_photo">capture photo</string>
+    <string name="btn_get_prop">get properties</string>
+    <string name="btn_get_ip">get ip</string>
+</resources>
