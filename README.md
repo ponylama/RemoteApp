@@ -48,8 +48,10 @@ Use it for automation, device diagnostics, or remote image capture on the same l
 - Make sure to accept the **Camera permission** when prompted
 
 ### 1. python App Setup
-- open the project 'pythonRemoteApp'
-- pip install -r requirements.txt
+> cd pythonRemoteApp
+> python -m venv venv
+> venv\Scripts\activate
+> pip install -r requirements.txt
 - edit ip on python script
 - run
 
