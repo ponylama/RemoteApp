@@ -49,9 +49,13 @@ Use it for automation, device diagnostics, or remote image capture on the same l
 
 ### 1. python App Setup
 > cd pythonRemoteApp
+
 > python -m venv venv
+
 > venv\Scripts\activate
+
 > pip install -r requirements.txt
+
 - edit ip on python script
 - run
 
