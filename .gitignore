@@ -9,7 +9,6 @@ androidRemoteApp/.idea/
 
 # ===== PYTHON =====
 pythonRemoteApp/__pycache__/
-pythonRemoteApp/.venv/
 pythonRemoteApp/venv/
 pythonRemoteApp/.idea/
 
